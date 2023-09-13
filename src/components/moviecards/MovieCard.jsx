@@ -10,7 +10,6 @@ const MovieCard = () => {
   return (
     <div className='Movie-container'>
         <div className='poster-card'>
-            <img src={poster} alt='' />
             <div className='poster-flex'>
 
             <div className="tv-series">
